@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kontrolltöö teemal Loendid ja Funktsioonid", "Kontrolltöö teemal Loendid ja Funktsioonid\Kontrolltöö teemal Loendid ja Funktsioonid.pyproj", "{01F75A3D-3D55-42AD-8615-9EBCA9F2AB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F75A3D-3D55-42AD-8615-9EBCA9F2AB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F75A3D-3D55-42AD-8615-9EBCA9F2AB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E231C5-34B0-442F-9620-8FE37FC56312}
+	EndGlobalSection
+EndGlobal
